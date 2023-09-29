@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-8b5b0aa8e44c4fe8bc746276cd7abdda
+  name: Online Publication
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+0.502x+1T2019/about
+  weight: 1000
